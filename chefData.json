@@ -1,0 +1,1002 @@
+[
+    {
+        "id": "1",
+        "chef_picture": "https://images.pexels.com/photos/3814446/pexels-photo-3814446.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "chef_name": "John Smith",
+        "years_of_experience": 10,
+        "num_of_recipes": 150,
+        "likes": "12",
+        "chef_recipie": [
+
+            {
+                "recipie_pic":"https://images.pexels.com/photos/1633578/pexels-photo-1633578.jpeg?auto=compress&cs=tinysrgb&w=600",
+                "racipie_name":"burger",
+                "ingredients": "'Genoa salami' 'pepperoni' 'ham' 'provolone  cheese' 'lettuce' 'tomatoes' 'onions'",
+                 "cooking_method": "Flame-grilling the beef patty, assembling the burger with the remaining ingredients",
+                 "rating": 4.2
+
+            },
+            {
+                "recipie_pic":"",
+                "racipie_name":"sorma",
+                "ingredients": "'Genoa salami' 'pepperoni' 'ham' 'provolone  cheese' 'lettuce' 'tomatoes' 'onions'",
+                 "cooking_method": "Cooking and seasoning the beef, assembling the taco with the remaining ingredients",
+                 "rating": 3.8
+            },
+            {
+                "recipie_pic":"",
+                "racipie_name":"chiken",
+                "ingredients": "'Genoa salami' 'pepperoni' 'ham' 'provolone  cheese' 'lettuce' 'tomatoes' 'onions'",
+                 "cooking_method": "Coating the chicken in a blend of flour, salt, and pepper, frying it in vegetable oil",
+                 "rating": 4.1
+            },
+            {
+                "recipie_pic":"https://images.pexels.com/photos/4109234/pexels-photo-4109234.jpeg?auto=compress&cs=tinysrgb&w=600",
+                "racipie_name":"frenc fry",
+                "ingredients": "'Genoa salami' 'pepperoni' 'ham' 'provolone  cheese' 'lettuce' 'tomatoes' 'onions'",
+                 "cooking_method": "Assembling the sandwich with the meat, cheese, vegetables, and condiments on the bread",
+                 "rating": 4.3
+              
+            },
+            {
+                "recipie_pic":"",
+                "racipie_name":"fried rice",
+                "ingredients": "'Genoa salami' 'pepperoni' 'ham' 'provolone  cheese' 'lettuce' 'tomatoes' 'onions'",
+                 "cooking_method": "Assembling the sandwich with the meat, cheese, vegetables, and condiments on the bread",
+                 "rating": 4.3
+              
+            }
+
+        ]
+      },
+      {
+        "id": "2",
+        "chef_picture": "https://images.pexels.com/photos/2102934/pexels-photo-2102934.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "chef_name": "Mary Johnson",
+        "years_of_experience": 8,
+        "num_of_recipes": 100,
+        "likes": "21",
+        "chef_recipie": [
+
+            {
+                "recipie_pic":"https://images.pexels.com/photos/1633578/pexels-photo-1633578.jpeg?auto=compress&cs=tinysrgb&w=600",
+                "racipie_name":"burger",
+                "ingredients": "'Genoa salami' 'pepperoni' 'ham' 'provolone  cheese' 'lettuce' 'tomatoes' 'onions'",
+                 "cooking_method": "Flame-grilling the beef patty, assembling the burger with the remaining ingredients",
+                 "rating": 4.2
+
+            },
+            {
+                "recipie_pic":"",
+                "racipie_name":"sorma",
+                "ingredients": "'Genoa salami' 'pepperoni' 'ham' 'provolone  cheese' 'lettuce' 'tomatoes' 'onions'",
+                 "cooking_method": "Cooking and seasoning the beef, assembling the taco with the remaining ingredients",
+                 "rating": 3.8
+            },
+            {
+                "recipie_pic":"",
+                "racipie_name":"chiken",
+                "ingredients": "'Genoa salami' 'pepperoni' 'ham' 'provolone  cheese' 'lettuce' 'tomatoes' 'onions'",
+                 "cooking_method": "Coating the chicken in a blend of flour, salt, and pepper, frying it in vegetable oil",
+                 "rating": 4.1
+            },
+            {
+                "recipie_pic":"https://images.pexels.com/photos/4109234/pexels-photo-4109234.jpeg?auto=compress&cs=tinysrgb&w=600",
+                "racipie_name":"frenc fry",
+                "ingredients": "'Genoa salami' 'pepperoni' 'ham' 'provolone  cheese' 'lettuce' 'tomatoes' 'onions'",
+                 "cooking_method": "Assembling the sandwich with the meat, cheese, vegetables, and condiments on the bread",
+                 "rating": 4.3
+              
+            },
+            {
+                "recipie_pic":"",
+                "racipie_name":"fried rice",
+                "ingredients": "'Genoa salami' 'pepperoni' 'ham' 'provolone  cheese' 'lettuce' 'tomatoes' 'onions'",
+                 "cooking_method": "Assembling the sandwich with the meat, cheese, vegetables, and condiments on the bread",
+                 "rating": 4.3
+              
+            }
+
+        ]
+      },
+      {
+        "id": "3",
+        "chef_picture": "https://images.pexels.com/photos/3298687/pexels-photo-3298687.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "chef_name": "David Lee",
+        "years_of_experience": 15,
+        "num_of_recipes": 200,
+        "likes": "13",
+        "chef_recipie": [
+
+            {
+                "recipie_pic":"https://images.pexels.com/photos/1633578/pexels-photo-1633578.jpeg?auto=compress&cs=tinysrgb&w=600",
+                "racipie_name":"burger",
+                "ingredients": "'Genoa salami' 'pepperoni' 'ham' 'provolone  cheese' 'lettuce' 'tomatoes' 'onions'",
+                 "cooking_method": "Flame-grilling the beef patty, assembling the burger with the remaining ingredients",
+                 "rating": 4.2
+
+            },
+            {
+                "recipie_pic":"",
+                "racipie_name":"sorma",
+                "ingredients": "'Genoa salami' 'pepperoni' 'ham' 'provolone  cheese' 'lettuce' 'tomatoes' 'onions'",
+                 "cooking_method": "Cooking and seasoning the beef, assembling the taco with the remaining ingredients",
+                 "rating": 3.8
+            },
+            {
+                "recipie_pic":"",
+                "racipie_name":"chiken",
+                "ingredients": "'Genoa salami' 'pepperoni' 'ham' 'provolone  cheese' 'lettuce' 'tomatoes' 'onions'",
+                 "cooking_method": "Coating the chicken in a blend of flour, salt, and pepper, frying it in vegetable oil",
+                 "rating": 4.1
+            },
+            {
+                "recipie_pic":"https://images.pexels.com/photos/4109234/pexels-photo-4109234.jpeg?auto=compress&cs=tinysrgb&w=600",
+                "racipie_name":"frenc fry",
+                "ingredients": "'Genoa salami' 'pepperoni' 'ham' 'provolone  cheese' 'lettuce' 'tomatoes' 'onions'",
+                 "cooking_method": "Assembling the sandwich with the meat, cheese, vegetables, and condiments on the bread",
+                 "rating": 4.3
+              
+            },
+            {
+                "recipie_pic":"",
+                "racipie_name":"fried rice",
+                "ingredients": "'Genoa salami' 'pepperoni' 'ham' 'provolone  cheese' 'lettuce' 'tomatoes' 'onions'",
+                 "cooking_method": "Assembling the sandwich with the meat, cheese, vegetables, and condiments on the bread",
+                 "rating": 4.3
+              
+            }
+
+        ]
+      },
+      {
+        "id": "4",
+        "chef_picture": "https://images.pexels.com/photos/1587830/pexels-photo-1587830.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "chef_name": "Sophia Chen",
+        "years_of_experience": 5,
+        "num_of_recipes": 80,
+        "likes": "90",
+        "chef_recipie": [
+
+            {
+                "recipie_pic":"https://images.pexels.com/photos/1633578/pexels-photo-1633578.jpeg?auto=compress&cs=tinysrgb&w=600",
+                "racipie_name":"burger",
+                "ingredients": "'Genoa salami' 'pepperoni' 'ham' 'provolone  cheese' 'lettuce' 'tomatoes' 'onions'",
+                 "cooking_method": "Flame-grilling the beef patty, assembling the burger with the remaining ingredients",
+                 "rating": 4.2
+
+            },
+            {
+                "recipie_pic":"",
+                "racipie_name":"sorma",
+                "ingredients": "'Genoa salami' 'pepperoni' 'ham' 'provolone  cheese' 'lettuce' 'tomatoes' 'onions'",
+                 "cooking_method": "Cooking and seasoning the beef, assembling the taco with the remaining ingredients",
+                 "rating": 3.8
+            },
+            {
+                "recipie_pic":"",
+                "racipie_name":"chiken",
+                "ingredients": "'Genoa salami' 'pepperoni' 'ham' 'provolone  cheese' 'lettuce' 'tomatoes' 'onions'",
+                 "cooking_method": "Coating the chicken in a blend of flour, salt, and pepper, frying it in vegetable oil",
+                 "rating": 4.1
+            },
+            {
+                "recipie_pic":"https://images.pexels.com/photos/4109234/pexels-photo-4109234.jpeg?auto=compress&cs=tinysrgb&w=600",
+                "racipie_name":"frenc fry",
+                "ingredients": "'Genoa salami' 'pepperoni' 'ham' 'provolone  cheese' 'lettuce' 'tomatoes' 'onions'",
+                 "cooking_method": "Assembling the sandwich with the meat, cheese, vegetables, and condiments on the bread",
+                 "rating": 4.3
+              
+            },
+            {
+                "recipie_pic":"",
+                "racipie_name":"fried rice",
+                "ingredients": "'Genoa salami' 'pepperoni' 'ham' 'provolone  cheese' 'lettuce' 'tomatoes' 'onions'",
+                 "cooking_method": "Assembling the sandwich with the meat, cheese, vegetables, and condiments on the bread",
+                 "rating": 4.3
+              
+            }
+
+        ]
+      },
+      {
+        "id": "5",
+        "chef_picture": "https://images.pexels.com/photos/3217156/pexels-photo-3217156.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "chef_name": "Michael Brown",
+        "years_of_experience": 12,
+        "num_of_recipes": 175,
+        "likes": "43",
+        "chef_recipie": [
+
+            {
+                "recipie_pic":"https://images.pexels.com/photos/1633578/pexels-photo-1633578.jpeg?auto=compress&cs=tinysrgb&w=600",
+                "racipie_name":"burger",
+                "ingredients": "'Genoa salami' 'pepperoni' 'ham' 'provolone  cheese' 'lettuce' 'tomatoes' 'onions'",
+                 "cooking_method": "Flame-grilling the beef patty, assembling the burger with the remaining ingredients",
+                 "rating": 4.2
+
+            },
+            {
+                "recipie_pic":"",
+                "racipie_name":"sorma",
+                "ingredients": "'Genoa salami' 'pepperoni' 'ham' 'provolone  cheese' 'lettuce' 'tomatoes' 'onions'",
+                 "cooking_method": "Cooking and seasoning the beef, assembling the taco with the remaining ingredients",
+                 "rating": 3.8
+            },
+            {
+                "recipie_pic":"",
+                "racipie_name":"chiken",
+                "ingredients": "'Genoa salami' 'pepperoni' 'ham' 'provolone  cheese' 'lettuce' 'tomatoes' 'onions'",
+                 "cooking_method": "Coating the chicken in a blend of flour, salt, and pepper, frying it in vegetable oil",
+                 "rating": 4.1
+            },
+            {
+                "recipie_pic":"https://images.pexels.com/photos/4109234/pexels-photo-4109234.jpeg?auto=compress&cs=tinysrgb&w=600",
+                "racipie_name":"frenc fry",
+                "ingredients": "'Genoa salami' 'pepperoni' 'ham' 'provolone  cheese' 'lettuce' 'tomatoes' 'onions'",
+                 "cooking_method": "Assembling the sandwich with the meat, cheese, vegetables, and condiments on the bread",
+                 "rating": 4.3
+              
+            },
+            {
+                "recipie_pic":"",
+                "racipie_name":"fried rice",
+                "ingredients": "'Genoa salami' 'pepperoni' 'ham' 'provolone  cheese' 'lettuce' 'tomatoes' 'onions'",
+                 "cooking_method": "Assembling the sandwich with the meat, cheese, vegetables, and condiments on the bread",
+                 "rating": 4.3
+              
+            }
+
+        ]
+      },
+      {
+        "id": "6",
+        "chef_picture": "https://images.pexels.com/photos/3351927/pexels-photo-3351927.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "chef_name": "Olivia Davis",
+        "years_of_experience": 9,
+        "num_of_recipes": 120,
+        "likes": "55",
+        "chef_recipie": [
+
+            {
+                "recipie_pic":"https://images.pexels.com/photos/1633578/pexels-photo-1633578.jpeg?auto=compress&cs=tinysrgb&w=600",
+                "racipie_name":"burger",
+                "ingredients": "'Genoa salami' 'pepperoni' 'ham' 'provolone  cheese' 'lettuce' 'tomatoes' 'onions'",
+                 "cooking_method": "Flame-grilling the beef patty, assembling the burger with the remaining ingredients",
+                 "rating": 4.2
+
+            },
+            {
+                "recipie_pic":"",
+                "racipie_name":"sorma",
+                "ingredients": "'Genoa salami' 'pepperoni' 'ham' 'provolone  cheese' 'lettuce' 'tomatoes' 'onions'",
+                 "cooking_method": "Cooking and seasoning the beef, assembling the taco with the remaining ingredients",
+                 "rating": 3.8
+            },
+            {
+                "recipie_pic":"",
+                "racipie_name":"chiken",
+                "ingredients": "'Genoa salami' 'pepperoni' 'ham' 'provolone  cheese' 'lettuce' 'tomatoes' 'onions'",
+                 "cooking_method": "Coating the chicken in a blend of flour, salt, and pepper, frying it in vegetable oil",
+                 "rating": 4.1
+            },
+            {
+                "recipie_pic":"https://images.pexels.com/photos/4109234/pexels-photo-4109234.jpeg?auto=compress&cs=tinysrgb&w=600",
+                "racipie_name":"frenc fry",
+                "ingredients": "'Genoa salami' 'pepperoni' 'ham' 'provolone  cheese' 'lettuce' 'tomatoes' 'onions'",
+                 "cooking_method": "Assembling the sandwich with the meat, cheese, vegetables, and condiments on the bread",
+                 "rating": 4.3
+              
+            },
+            {
+                "recipie_pic":"",
+                "racipie_name":"fried rice",
+                "ingredients": "'Genoa salami' 'pepperoni' 'ham' 'provolone  cheese' 'lettuce' 'tomatoes' 'onions'",
+                 "cooking_method": "Assembling the sandwich with the meat, cheese, vegetables, and condiments on the bread",
+                 "rating": 4.3
+              
+            }
+
+        ]
+      },
+      {
+        "id": "7",
+        "chef_picture": "https://images.pexels.com/photos/1397514/pexels-photo-1397514.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "chef_name": "William Johnson",
+        "years_of_experience": 7,
+        "num_of_recipes": 90,
+        "likes": "34",
+        "chef_recipie": [
+
+            {
+                "recipie_pic":"https://images.pexels.com/photos/1633578/pexels-photo-1633578.jpeg?auto=compress&cs=tinysrgb&w=600",
+                "racipie_name":"burger",
+                "ingredients": "'Genoa salami' 'pepperoni' 'ham' 'provolone  cheese' 'lettuce' 'tomatoes' 'onions'",
+                 "cooking_method": "Flame-grilling the beef patty, assembling the burger with the remaining ingredients",
+                 "rating": 4.2
+
+            },
+            {
+                "recipie_pic":"",
+                "racipie_name":"sorma",
+                "ingredients": "'Genoa salami' 'pepperoni' 'ham' 'provolone  cheese' 'lettuce' 'tomatoes' 'onions'",
+                 "cooking_method": "Cooking and seasoning the beef, assembling the taco with the remaining ingredients",
+                 "rating": 3.8
+            },
+            {
+                "recipie_pic":"",
+                "racipie_name":"chiken",
+                "ingredients": "'Genoa salami' 'pepperoni' 'ham' 'provolone  cheese' 'lettuce' 'tomatoes' 'onions'",
+                 "cooking_method": "Coating the chicken in a blend of flour, salt, and pepper, frying it in vegetable oil",
+                 "rating": 4.1
+            },
+            {
+                "recipie_pic":"https://images.pexels.com/photos/4109234/pexels-photo-4109234.jpeg?auto=compress&cs=tinysrgb&w=600",
+                "racipie_name":"frenc fry",
+                "ingredients": "'Genoa salami' 'pepperoni' 'ham' 'provolone  cheese' 'lettuce' 'tomatoes' 'onions'",
+                 "cooking_method": "Assembling the sandwich with the meat, cheese, vegetables, and condiments on the bread",
+                 "rating": 4.3
+              
+            },
+            {
+                "recipie_pic":"",
+                "racipie_name":"fried rice",
+                "ingredients": "'Genoa salami' 'pepperoni' 'ham' 'provolone  cheese' 'lettuce' 'tomatoes' 'onions'",
+                 "cooking_method": "Assembling the sandwich with the meat, cheese, vegetables, and condiments on the bread",
+                 "rating": 4.3
+              
+            }
+
+        ]
+      },
+      {
+        "id": "8",
+        "chef_picture": "https://images.pexels.com/photos/1397514/pexels-photo-1397514.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "chef_name": "Emily Wilson",
+        "years_of_experience": 11,
+        "num_of_recipes": 160,
+        "likes": "16",
+        "chef_recipie": [
+
+            {
+                "recipie_pic":"https://images.pexels.com/photos/1633578/pexels-photo-1633578.jpeg?auto=compress&cs=tinysrgb&w=600",
+                "racipie_name":"burger",
+                "ingredients": "'Genoa salami' 'pepperoni' 'ham' 'provolone  cheese' 'lettuce' 'tomatoes' 'onions'",
+                 "cooking_method": "Flame-grilling the beef patty, assembling the burger with the remaining ingredients",
+                 "rating": 4.2
+
+            },
+            {
+                "recipie_pic":"",
+                "racipie_name":"sorma",
+                "ingredients": "'Genoa salami' 'pepperoni' 'ham' 'provolone  cheese' 'lettuce' 'tomatoes' 'onions'",
+                 "cooking_method": "Cooking and seasoning the beef, assembling the taco with the remaining ingredients",
+                 "rating": 3.8
+            },
+            {
+                "recipie_pic":"",
+                "racipie_name":"chiken",
+                "ingredients": "'Genoa salami' 'pepperoni' 'ham' 'provolone  cheese' 'lettuce' 'tomatoes' 'onions'",
+                 "cooking_method": "Coating the chicken in a blend of flour, salt, and pepper, frying it in vegetable oil",
+                 "rating": 4.1
+            },
+            {
+                "recipie_pic":"https://images.pexels.com/photos/4109234/pexels-photo-4109234.jpeg?auto=compress&cs=tinysrgb&w=600",
+                "racipie_name":"frenc fry",
+                "ingredients": "'Genoa salami' 'pepperoni' 'ham' 'provolone  cheese' 'lettuce' 'tomatoes' 'onions'",
+                 "cooking_method": "Assembling the sandwich with the meat, cheese, vegetables, and condiments on the bread",
+                 "rating": 4.3
+              
+            },
+            {
+                "recipie_pic":"",
+                "racipie_name":"fried rice",
+                "ingredients": "'Genoa salami' 'pepperoni' 'ham' 'provolone  cheese' 'lettuce' 'tomatoes' 'onions'",
+                 "cooking_method": "Assembling the sandwich with the meat, cheese, vegetables, and condiments on the bread",
+                 "rating": 4.3
+              
+            }
+
+        ]
+      },
+      {
+        "id": "9",
+        "chef_picture": "https://images.pexels.com/photos/3338672/pexels-photo-3338672.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "chef_name": "Daniel Kim",
+        "years_of_experience": 14,
+        "num_of_recipes": 190,
+        "likes": "18",
+        "chef_recipie": [
+
+            {
+                "recipie_pic":"https://images.pexels.com/photos/1633578/pexels-photo-1633578.jpeg?auto=compress&cs=tinysrgb&w=600",
+                "racipie_name":"burger",
+                "ingredients": "'Genoa salami' 'pepperoni' 'ham' 'provolone  cheese' 'lettuce' 'tomatoes' 'onions'",
+                 "cooking_method": "Flame-grilling the beef patty, assembling the burger with the remaining ingredients",
+                 "rating": 4.2
+
+            },
+            {
+                "recipie_pic":"",
+                "racipie_name":"sorma",
+                "ingredients": "'Genoa salami' 'pepperoni' 'ham' 'provolone  cheese' 'lettuce' 'tomatoes' 'onions'",
+                 "cooking_method": "Cooking and seasoning the beef, assembling the taco with the remaining ingredients",
+                 "rating": 3.8
+            },
+            {
+                "recipie_pic":"",
+                "racipie_name":"chiken",
+                "ingredients": "'Genoa salami' 'pepperoni' 'ham' 'provolone  cheese' 'lettuce' 'tomatoes' 'onions'",
+                 "cooking_method": "Coating the chicken in a blend of flour, salt, and pepper, frying it in vegetable oil",
+                 "rating": 4.1
+            },
+            {
+                "recipie_pic":"https://images.pexels.com/photos/4109234/pexels-photo-4109234.jpeg?auto=compress&cs=tinysrgb&w=600",
+                "racipie_name":"frenc fry",
+                "ingredients": "'Genoa salami' 'pepperoni' 'ham' 'provolone  cheese' 'lettuce' 'tomatoes' 'onions'",
+                 "cooking_method": "Assembling the sandwich with the meat, cheese, vegetables, and condiments on the bread",
+                 "rating": 4.3
+              
+            },
+            {
+                "recipie_pic":"",
+                "racipie_name":"fried rice",
+                "ingredients": "'Genoa salami' 'pepperoni' 'ham' 'provolone  cheese' 'lettuce' 'tomatoes' 'onions'",
+                 "cooking_method": "Assembling the sandwich with the meat, cheese, vegetables, and condiments on the bread",
+                 "rating": 4.3
+              
+            }
+
+        ]
+      },
+      {
+        "id": "10",
+        "chef_picture": "https://images.pexels.com/photos/3771120/pexels-photo-3771120.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "chef_name": "Grace Lee",
+        "years_of_experience": 6,
+        "num_of_recipes": 85,
+        "likes": "20",
+        "chef_recipie": [
+
+            {
+                "recipie_pic":"https://images.pexels.com/photos/1633578/pexels-photo-1633578.jpeg?auto=compress&cs=tinysrgb&w=600",
+                "racipie_name":"burger",
+                "ingredients": "'Genoa salami' 'pepperoni' 'ham' 'provolone  cheese' 'lettuce' 'tomatoes' 'onions'",
+                 "cooking_method": "Flame-grilling the beef patty, assembling the burger with the remaining ingredients",
+                 "rating": 4.2
+
+            },
+            {
+                "recipie_pic":"",
+                "racipie_name":"sorma",
+                "ingredients": "'Genoa salami' 'pepperoni' 'ham' 'provolone  cheese' 'lettuce' 'tomatoes' 'onions'",
+                 "cooking_method": "Cooking and seasoning the beef, assembling the taco with the remaining ingredients",
+                 "rating": 3.8
+            },
+            {
+                "recipie_pic":"",
+                "racipie_name":"chiken",
+                "ingredients": "'Genoa salami' 'pepperoni' 'ham' 'provolone  cheese' 'lettuce' 'tomatoes' 'onions'",
+                 "cooking_method": "Coating the chicken in a blend of flour, salt, and pepper, frying it in vegetable oil",
+                 "rating": 4.1
+            },
+            {
+                "recipie_pic":"https://images.pexels.com/photos/4109234/pexels-photo-4109234.jpeg?auto=compress&cs=tinysrgb&w=600",
+                "racipie_name":"frenc fry",
+                "ingredients": "'Genoa salami' 'pepperoni' 'ham' 'provolone  cheese' 'lettuce' 'tomatoes' 'onions'",
+                 "cooking_method": "Assembling the sandwich with the meat, cheese, vegetables, and condiments on the bread",
+                 "rating": 4.3
+              
+            },
+            {
+                "recipie_pic":"",
+                "racipie_name":"fried rice",
+                "ingredients": "'Genoa salami' 'pepperoni' 'ham' 'provolone  cheese' 'lettuce' 'tomatoes' 'onions'",
+                 "cooking_method": "Assembling the sandwich with the meat, cheese, vegetables, and condiments on the bread",
+                 "rating": 4.3
+              
+            }
+
+        ]
+      },
+      {
+        "id": "11",
+        "chef_picture": "https://images.pexels.com/photos/4252137/pexels-photo-4252137.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "chef_name": "Jacob Brown",
+        "years_of_experience": 13,
+        "num_of_recipes": 170,
+        "likes": "24",
+        "chef_recipie": [
+
+            {
+                "recipie_pic":"https://images.pexels.com/photos/1633578/pexels-photo-1633578.jpeg?auto=compress&cs=tinysrgb&w=600",
+                "racipie_name":"burger",
+                "ingredients": "'Genoa salami' 'pepperoni' 'ham' 'provolone  cheese' 'lettuce' 'tomatoes' 'onions'",
+                 "cooking_method": "Flame-grilling the beef patty, assembling the burger with the remaining ingredients",
+                 "rating": 4.2
+
+            },
+            {
+                "recipie_pic":"",
+                "racipie_name":"sorma",
+                "ingredients": "'Genoa salami' 'pepperoni' 'ham' 'provolone  cheese' 'lettuce' 'tomatoes' 'onions'",
+                 "cooking_method": "Cooking and seasoning the beef, assembling the taco with the remaining ingredients",
+                 "rating": 3.8
+            },
+            {
+                "recipie_pic":"",
+                "racipie_name":"chiken",
+                "ingredients": "'Genoa salami' 'pepperoni' 'ham' 'provolone  cheese' 'lettuce' 'tomatoes' 'onions'",
+                 "cooking_method": "Coating the chicken in a blend of flour, salt, and pepper, frying it in vegetable oil",
+                 "rating": 4.1
+            },
+            {
+                "recipie_pic":"https://images.pexels.com/photos/4109234/pexels-photo-4109234.jpeg?auto=compress&cs=tinysrgb&w=600",
+                "racipie_name":"frenc fry",
+                "ingredients": "'Genoa salami' 'pepperoni' 'ham' 'provolone  cheese' 'lettuce' 'tomatoes' 'onions'",
+                 "cooking_method": "Assembling the sandwich with the meat, cheese, vegetables, and condiments on the bread",
+                 "rating": 4.3
+              
+            },
+            {
+                "recipie_pic":"",
+                "racipie_name":"fried rice",
+                "ingredients": "'Genoa salami' 'pepperoni' 'ham' 'provolone  cheese' 'lettuce' 'tomatoes' 'onions'",
+                 "cooking_method": "Assembling the sandwich with the meat, cheese, vegetables, and condiments on the bread",
+                 "rating": 4.3
+              
+            }
+
+        ]
+      },
+      {
+        "id": "12",
+        "chef_picture": "https://images.pexels.com/photos/3338536/pexels-photo-3338536.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "chef_name": "Sophie Davis",
+        "years_of_experience": 4,
+        "num_of_recipes": 70,
+        "likes": "15",
+        "chef_recipie": [
+
+            {
+                "recipie_pic":"https://images.pexels.com/photos/1633578/pexels-photo-1633578.jpeg?auto=compress&cs=tinysrgb&w=600",
+                "racipie_name":"burger",
+                "ingredients": "'Genoa salami' 'pepperoni' 'ham' 'provolone  cheese' 'lettuce' 'tomatoes' 'onions'",
+                 "cooking_method": "Flame-grilling the beef patty, assembling the burger with the remaining ingredients",
+                 "rating": 4.2
+
+            },
+            {
+                "recipie_pic":"",
+                "racipie_name":"sorma",
+                "ingredients": "'Genoa salami' 'pepperoni' 'ham' 'provolone  cheese' 'lettuce' 'tomatoes' 'onions'",
+                 "cooking_method": "Cooking and seasoning the beef, assembling the taco with the remaining ingredients",
+                 "rating": 3.8
+            },
+            {
+                "recipie_pic":"",
+                "racipie_name":"chiken",
+                "ingredients": "'Genoa salami' 'pepperoni' 'ham' 'provolone  cheese' 'lettuce' 'tomatoes' 'onions'",
+                 "cooking_method": "Coating the chicken in a blend of flour, salt, and pepper, frying it in vegetable oil",
+                 "rating": 4.1
+            },
+            {
+                "recipie_pic":"https://images.pexels.com/photos/4109234/pexels-photo-4109234.jpeg?auto=compress&cs=tinysrgb&w=600",
+                "racipie_name":"frenc fry",
+                "ingredients": "'Genoa salami' 'pepperoni' 'ham' 'provolone  cheese' 'lettuce' 'tomatoes' 'onions'",
+                 "cooking_method": "Assembling the sandwich with the meat, cheese, vegetables, and condiments on the bread",
+                 "rating": 4.3
+              
+            },
+            {
+                "recipie_pic":"",
+                "racipie_name":"fried rice",
+                "ingredients": "'Genoa salami' 'pepperoni' 'ham' 'provolone  cheese' 'lettuce' 'tomatoes' 'onions'",
+                 "cooking_method": "Assembling the sandwich with the meat, cheese, vegetables, and condiments on the bread",
+                 "rating": 4.3
+              
+            }
+
+        ]
+      },
+      {
+        "id": "13",
+        "chef_picture": "https://images.pexels.com/photos/887827/pexels-photo-887827.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "chef_name": "Aiden Lee",
+        "years_of_experience": 7,
+        "num_of_recipes": 95,
+        "likes": "32",
+        "chef_recipie": [
+
+            {
+                "recipie_pic":"https://images.pexels.com/photos/1633578/pexels-photo-1633578.jpeg?auto=compress&cs=tinysrgb&w=600",
+                "racipie_name":"burger",
+                "ingredients": "'Genoa salami' 'pepperoni' 'ham' 'provolone  cheese' 'lettuce' 'tomatoes' 'onions'",
+                 "cooking_method": "Flame-grilling the beef patty, assembling the burger with the remaining ingredients",
+                 "rating": 4.2
+
+            },
+            {
+                "recipie_pic":"",
+                "racipie_name":"sorma",
+                "ingredients": "'Genoa salami' 'pepperoni' 'ham' 'provolone  cheese' 'lettuce' 'tomatoes' 'onions'",
+                 "cooking_method": "Cooking and seasoning the beef, assembling the taco with the remaining ingredients",
+                 "rating": 3.8
+            },
+            {
+                "recipie_pic":"",
+                "racipie_name":"chiken",
+                "ingredients": "'Genoa salami' 'pepperoni' 'ham' 'provolone  cheese' 'lettuce' 'tomatoes' 'onions'",
+                 "cooking_method": "Coating the chicken in a blend of flour, salt, and pepper, frying it in vegetable oil",
+                 "rating": 4.1
+            },
+            {
+                "recipie_pic":"https://images.pexels.com/photos/4109234/pexels-photo-4109234.jpeg?auto=compress&cs=tinysrgb&w=600",
+                "racipie_name":"frenc fry",
+                "ingredients": "'Genoa salami' 'pepperoni' 'ham' 'provolone  cheese' 'lettuce' 'tomatoes' 'onions'",
+                 "cooking_method": "Assembling the sandwich with the meat, cheese, vegetables, and condiments on the bread",
+                 "rating": 4.3
+              
+            },
+            {
+                "recipie_pic":"",
+                "racipie_name":"fried rice",
+                "ingredients": "'Genoa salami' 'pepperoni' 'ham' 'provolone  cheese' 'lettuce' 'tomatoes' 'onions'",
+                 "cooking_method": "Assembling the sandwich with the meat, cheese, vegetables, and condiments on the bread",
+                 "rating": 4.3
+              
+            }
+
+        ]
+      },
+      {
+        "id": "14",
+        "chef_picture": "https://images.pexels.com/photos/4057693/pexels-photo-4057693.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "chef_name": "agela danom",
+        "years_of_experience": 12,
+        "likes": "56",
+        "num_of_recipes": 24,
+        "chef_recipie": [
+
+            {
+                "recipie_pic":"https://images.pexels.com/photos/1633578/pexels-photo-1633578.jpeg?auto=compress&cs=tinysrgb&w=600",
+                "racipie_name":"burger",
+                "ingredients": "'Genoa salami' 'pepperoni' 'ham' 'provolone  cheese' 'lettuce' 'tomatoes' 'onions'",
+                 "cooking_method": "Flame-grilling the beef patty, assembling the burger with the remaining ingredients",
+                 "rating": 4.2
+
+            },
+            {
+                "recipie_pic":"",
+                "racipie_name":"sorma",
+                "ingredients": "'Genoa salami' 'pepperoni' 'ham' 'provolone  cheese' 'lettuce' 'tomatoes' 'onions'",
+                 "cooking_method": "Cooking and seasoning the beef, assembling the taco with the remaining ingredients",
+                 "rating": 3.8
+            },
+            {
+                "recipie_pic":"",
+                "racipie_name":"chiken",
+                "ingredients": "'Genoa salami' 'pepperoni' 'ham' 'provolone  cheese' 'lettuce' 'tomatoes' 'onions'",
+                 "cooking_method": "Coating the chicken in a blend of flour, salt, and pepper, frying it in vegetable oil",
+                 "rating": 4.1
+            },
+            {
+                "recipie_pic":"https://images.pexels.com/photos/4109234/pexels-photo-4109234.jpeg?auto=compress&cs=tinysrgb&w=600",
+                "racipie_name":"frenc fry",
+                "ingredients": "'Genoa salami' 'pepperoni' 'ham' 'provolone  cheese' 'lettuce' 'tomatoes' 'onions'",
+                 "cooking_method": "Assembling the sandwich with the meat, cheese, vegetables, and condiments on the bread",
+                 "rating": 4.3
+              
+            },
+            {
+                "recipie_pic":"",
+                "racipie_name":"fried rice",
+                "ingredients": "'Genoa salami' 'pepperoni' 'ham' 'provolone  cheese' 'lettuce' 'tomatoes' 'onions'",
+                 "cooking_method": "Assembling the sandwich with the meat, cheese, vegetables, and condiments on the bread",
+                 "rating": 4.3
+              
+            }
+
+        ]
+      },
+      {
+        "id": "15",
+        "chef_picture": "https://images.pexels.com/photos/3785693/pexels-photo-3785693.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "chef_name": "loan konta Lee",
+        "years_of_experience": 2,
+        "num_of_recipes": 56,
+        "likes": "35",
+        "chef_recipie": [
+
+            {
+                "recipie_pic":"https://images.pexels.com/photos/1633578/pexels-photo-1633578.jpeg?auto=compress&cs=tinysrgb&w=600",
+                "racipie_name":"burger",
+                "ingredients": "'Genoa salami' 'pepperoni' 'ham' 'provolone  cheese' 'lettuce' 'tomatoes' 'onions'",
+                 "cooking_method": "Flame-grilling the beef patty, assembling the burger with the remaining ingredients",
+                 "rating": 4.2
+
+            },
+            {
+                "recipie_pic":"",
+                "racipie_name":"sorma",
+                "ingredients": "'Genoa salami' 'pepperoni' 'ham' 'provolone  cheese' 'lettuce' 'tomatoes' 'onions'",
+                 "cooking_method": "Cooking and seasoning the beef, assembling the taco with the remaining ingredients",
+                 "rating": 3.8
+            },
+            {
+                "recipie_pic":"",
+                "racipie_name":"chiken",
+                "ingredients": "'Genoa salami' 'pepperoni' 'ham' 'provolone  cheese' 'lettuce' 'tomatoes' 'onions'",
+                 "cooking_method": "Coating the chicken in a blend of flour, salt, and pepper, frying it in vegetable oil",
+                 "rating": 4.1
+            },
+            {
+                "recipie_pic":"https://images.pexels.com/photos/4109234/pexels-photo-4109234.jpeg?auto=compress&cs=tinysrgb&w=600",
+                "racipie_name":"frenc fry",
+                "ingredients": "'Genoa salami' 'pepperoni' 'ham' 'provolone  cheese' 'lettuce' 'tomatoes' 'onions'",
+                 "cooking_method": "Assembling the sandwich with the meat, cheese, vegetables, and condiments on the bread",
+                 "rating": 4.3
+              
+            },
+            {
+                "recipie_pic":"",
+                "racipie_name":"fried rice",
+                "ingredients": "'Genoa salami' 'pepperoni' 'ham' 'provolone  cheese' 'lettuce' 'tomatoes' 'onions'",
+                 "cooking_method": "Assembling the sandwich with the meat, cheese, vegetables, and condiments on the bread",
+                 "rating": 4.3
+              
+            }
+
+        ]
+      },
+      {
+        "id": "16",
+        "chef_picture": "https://images.pexels.com/photos/3770002/pexels-photo-3770002.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "chef_name": "fadinn Leen",
+        "years_of_experience": 4,
+        "num_of_recipes": 87,
+        "likes": "12",
+        "chef_recipie": [
+
+            {
+                "recipie_pic":"https://images.pexels.com/photos/1633578/pexels-photo-1633578.jpeg?auto=compress&cs=tinysrgb&w=600",
+                "racipie_name":"burger",
+                "ingredients": "'Genoa salami' 'pepperoni' 'ham' 'provolone  cheese' 'lettuce' 'tomatoes' 'onions'",
+                 "cooking_method": "Flame-grilling the beef patty, assembling the burger with the remaining ingredients",
+                 "rating": 4.2
+
+            },
+            {
+                "recipie_pic":"",
+                "racipie_name":"sorma",
+                "ingredients": "'Genoa salami' 'pepperoni' 'ham' 'provolone  cheese' 'lettuce' 'tomatoes' 'onions'",
+                 "cooking_method": "Cooking and seasoning the beef, assembling the taco with the remaining ingredients",
+                 "rating": 3.8
+            },
+            {
+                "recipie_pic":"",
+                "racipie_name":"chiken",
+                "ingredients": "'Genoa salami' 'pepperoni' 'ham' 'provolone  cheese' 'lettuce' 'tomatoes' 'onions'",
+                 "cooking_method": "Coating the chicken in a blend of flour, salt, and pepper, frying it in vegetable oil",
+                 "rating": 4.1
+            },
+            {
+                "recipie_pic":"https://images.pexels.com/photos/4109234/pexels-photo-4109234.jpeg?auto=compress&cs=tinysrgb&w=600",
+                "racipie_name":"frenc fry",
+                "ingredients": "'Genoa salami' 'pepperoni' 'ham' 'provolone  cheese' 'lettuce' 'tomatoes' 'onions'",
+                 "cooking_method": "Assembling the sandwich with the meat, cheese, vegetables, and condiments on the bread",
+                 "rating": 4.3
+              
+            },
+            {
+                "recipie_pic":"",
+                "racipie_name":"fried rice",
+                "ingredients": "'Genoa salami' 'pepperoni' 'ham' 'provolone  cheese' 'lettuce' 'tomatoes' 'onions'",
+                 "cooking_method": "Assembling the sandwich with the meat, cheese, vegetables, and condiments on the bread",
+                 "rating": 4.3
+              
+            }
+
+        ]
+      },
+      {
+        "id": "17",
+        "chef_picture": "https://images.pexels.com/photos/3771812/pexels-photo-3771812.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "chef_name": "Aiden Lee",
+        "years_of_experience": 4,
+        "num_of_recipes": 76,
+        "likes": "11",
+        "chef_recipie": [
+
+            {
+                "recipie_pic":"https://images.pexels.com/photos/1633578/pexels-photo-1633578.jpeg?auto=compress&cs=tinysrgb&w=600",
+                "racipie_name":"burger",
+                "ingredients": "'Genoa salami' 'pepperoni' 'ham' 'provolone  cheese' 'lettuce' 'tomatoes' 'onions'",
+                 "cooking_method": "Flame-grilling the beef patty, assembling the burger with the remaining ingredients",
+                 "rating": 4.2
+
+            },
+            {
+                "recipie_pic":"",
+                "racipie_name":"sorma",
+                "ingredients": "'Genoa salami' 'pepperoni' 'ham' 'provolone  cheese' 'lettuce' 'tomatoes' 'onions'",
+                 "cooking_method": "Cooking and seasoning the beef, assembling the taco with the remaining ingredients",
+                 "rating": 3.8
+            },
+            {
+                "recipie_pic":"",
+                "racipie_name":"chiken",
+                "ingredients": "'Genoa salami' 'pepperoni' 'ham' 'provolone  cheese' 'lettuce' 'tomatoes' 'onions'",
+                 "cooking_method": "Coating the chicken in a blend of flour, salt, and pepper, frying it in vegetable oil",
+                 "rating": 4.1
+            },
+            {
+                "recipie_pic":"https://images.pexels.com/photos/4109234/pexels-photo-4109234.jpeg?auto=compress&cs=tinysrgb&w=600",
+                "racipie_name":"frenc fry",
+                "ingredients": "'Genoa salami' 'pepperoni' 'ham' 'provolone  cheese' 'lettuce' 'tomatoes' 'onions'",
+                 "cooking_method": "Assembling the sandwich with the meat, cheese, vegetables, and condiments on the bread",
+                 "rating": 4.3
+              
+            },
+            {
+                "recipie_pic":"",
+                "racipie_name":"fried rice",
+                "ingredients": "'Genoa salami' 'pepperoni' 'ham' 'provolone  cheese' 'lettuce' 'tomatoes' 'onions'",
+                 "cooking_method": "Assembling the sandwich with the meat, cheese, vegetables, and condiments on the bread",
+                 "rating": 4.3
+              
+            }
+
+        ]
+      },
+      {
+        "id": "18",
+        "chef_picture": "https://images.pexels.com/photos/3785718/pexels-photo-3785718.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "chef_name": "Aiden Lee",
+        "years_of_experience": 9,
+        "num_of_recipes": 56,
+        "likes": "1",
+        "chef_recipie": [
+
+            {
+                "recipie_pic":"https://images.pexels.com/photos/1633578/pexels-photo-1633578.jpeg?auto=compress&cs=tinysrgb&w=600",
+                "racipie_name":"burger",
+                "ingredients": "'Genoa salami' 'pepperoni' 'ham' 'provolone  cheese' 'lettuce' 'tomatoes' 'onions'",
+                 "cooking_method": "Flame-grilling the beef patty, assembling the burger with the remaining ingredients",
+                 "rating": 4.2
+
+            },
+            {
+                "recipie_pic":"",
+                "racipie_name":"sorma",
+                "ingredients": "'Genoa salami' 'pepperoni' 'ham' 'provolone  cheese' 'lettuce' 'tomatoes' 'onions'",
+                 "cooking_method": "Cooking and seasoning the beef, assembling the taco with the remaining ingredients",
+                 "rating": 3.8
+            },
+            {
+                "recipie_pic":"",
+                "racipie_name":"chiken",
+                "ingredients": "'Genoa salami' 'pepperoni' 'ham' 'provolone  cheese' 'lettuce' 'tomatoes' 'onions'",
+                 "cooking_method": "Coating the chicken in a blend of flour, salt, and pepper, frying it in vegetable oil",
+                 "rating": 4.1
+            },
+            {
+                "recipie_pic":"https://images.pexels.com/photos/4109234/pexels-photo-4109234.jpeg?auto=compress&cs=tinysrgb&w=600",
+                "racipie_name":"frenc fry",
+                "ingredients": "'Genoa salami' 'pepperoni' 'ham' 'provolone  cheese' 'lettuce' 'tomatoes' 'onions'",
+                 "cooking_method": "Assembling the sandwich with the meat, cheese, vegetables, and condiments on the bread",
+                 "rating": 4.3
+              
+            },
+            {
+                "recipie_pic":"",
+                "racipie_name":"fried rice",
+                "ingredients": "'Genoa salami' 'pepperoni' 'ham' 'provolone  cheese' 'lettuce' 'tomatoes' 'onions'",
+                 "cooking_method": "Assembling the sandwich with the meat, cheese, vegetables, and condiments on the bread",
+                 "rating": 4.3
+              
+            }
+
+        ]
+      },
+      {
+        "id": "19",
+        "chef_picture": "https://images.pexels.com/photos/2792347/pexels-photo-2792347.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "chef_name": "Aiden Lee",
+        "years_of_experience": 5,
+        "num_of_recipes": 42,
+        "likes": "3",
+        "chef_recipie": [
+
+            {
+                "recipie_pic":"https://images.pexels.com/photos/1633578/pexels-photo-1633578.jpeg?auto=compress&cs=tinysrgb&w=600",
+                "racipie_name":"burger",
+                "ingredients": "'Genoa salami' 'pepperoni' 'ham' 'provolone  cheese' 'lettuce' 'tomatoes' 'onions'",
+                 "cooking_method": "Flame-grilling the beef patty, assembling the burger with the remaining ingredients",
+                 "rating": 4.2
+
+            },
+            {
+                "recipie_pic":"",
+                "racipie_name":"sorma",
+                "ingredients": "'Genoa salami' 'pepperoni' 'ham' 'provolone  cheese' 'lettuce' 'tomatoes' 'onions'",
+                 "cooking_method": "Cooking and seasoning the beef, assembling the taco with the remaining ingredients",
+                 "rating": 3.8
+            },
+            {
+                "recipie_pic":"",
+                "racipie_name":"chiken",
+                "ingredients": "'Genoa salami' 'pepperoni' 'ham' 'provolone  cheese' 'lettuce' 'tomatoes' 'onions'",
+                 "cooking_method": "Coating the chicken in a blend of flour, salt, and pepper, frying it in vegetable oil",
+                 "rating": 4.1
+            },
+            {
+                "recipie_pic":"https://images.pexels.com/photos/4109234/pexels-photo-4109234.jpeg?auto=compress&cs=tinysrgb&w=600",
+                "racipie_name":"frenc fry",
+                "ingredients": "'Genoa salami' 'pepperoni' 'ham' 'provolone  cheese' 'lettuce' 'tomatoes' 'onions'",
+                 "cooking_method": "Assembling the sandwich with the meat, cheese, vegetables, and condiments on the bread",
+                 "rating": 4.3
+              
+            },
+            {
+                "recipie_pic":"",
+                "racipie_name":"fried rice",
+                "ingredients": "'Genoa salami' 'pepperoni' 'ham' 'provolone  cheese' 'lettuce' 'tomatoes' 'onions'",
+                 "cooking_method": "Assembling the sandwich with the meat, cheese, vegetables, and condiments on the bread",
+                 "rating": 4.3
+              
+            }
+
+        ]
+      },
+      {
+        "id": "20",
+        "chef_picture": "https://images.pexels.com/photos/2461838/pexels-photo-2461838.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "chef_name": "Aiden Lee",
+        "years_of_experience": 6,
+        "num_of_recipes": 34,
+        "likes": "9",
+        "chef_recipie": [
+
+            {
+                "recipie_pic":"https://images.pexels.com/photos/1633578/pexels-photo-1633578.jpeg?auto=compress&cs=tinysrgb&w=600",
+                "racipie_name":"burger",
+                "ingredients": "'Genoa salami' 'pepperoni' 'ham' 'provolone  cheese' 'lettuce' 'tomatoes' 'onions'",
+                 "cooking_method": "Flame-grilling the beef patty, assembling the burger with the remaining ingredients",
+                 "rating": 4.2
+
+            },
+            {
+                "recipie_pic":"",
+                "racipie_name":"sorma",
+                "ingredients": "'Genoa salami' 'pepperoni' 'ham' 'provolone  cheese' 'lettuce' 'tomatoes' 'onions'",
+                 "cooking_method": "Cooking and seasoning the beef, assembling the taco with the remaining ingredients",
+                 "rating": 3.8
+            },
+            {
+                "recipie_pic":"",
+                "racipie_name":"chiken",
+                "ingredients": "'Genoa salami' 'pepperoni' 'ham' 'provolone  cheese' 'lettuce' 'tomatoes' 'onions'",
+                 "cooking_method": "Coating the chicken in a blend of flour, salt, and pepper, frying it in vegetable oil",
+                 "rating": 4.1
+            },
+            {
+                "recipie_pic":"https://images.pexels.com/photos/4109234/pexels-photo-4109234.jpeg?auto=compress&cs=tinysrgb&w=600",
+                "racipie_name":"frenc fry",
+                "ingredients": "'Genoa salami' 'pepperoni' 'ham' 'provolone  cheese' 'lettuce' 'tomatoes' 'onions'",
+                 "cooking_method": "Assembling the sandwich with the meat, cheese, vegetables, and condiments on the bread",
+                 "rating": 4.3
+              
+            },
+            {
+                "recipie_pic":"",
+                "racipie_name":"fried rice",
+                "ingredients": "'Genoa salami' 'pepperoni' 'ham' 'provolone  cheese' 'lettuce' 'tomatoes' 'onions'",
+                 "cooking_method": "Assembling the sandwich with the meat, cheese, vegetables, and condiments on the bread",
+                 "rating": 4.3
+              
+            }
+
+        ]
+      }
+]
